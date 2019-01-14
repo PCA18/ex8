@@ -1,0 +1,159 @@
+/var/spool/slurm/d/job07813/slurm_script: Zeile 12: module: Kommando nicht gefunden.
+2 Knoten 1 Rank
+Processor peac01, rank 0 out of 1 processors
+sizeof msg = 4
+The time is: 525810.00 ns
+sizeof msg = 8
+The time is: 124408.40 ns
+sizeof msg = 16
+The time is: 4796.00 ns
+sizeof msg = 32
+The time is: 354.00 ns
+sizeof msg = 64
+The time is: 287.60 ns
+sizeof msg = 128
+The time is: 325.20 ns
+sizeof msg = 256
+The time is: 284.00 ns
+sizeof msg = 512
+The time is: 280.00 ns
+sizeof msg = 1024
+The time is: 267.60 ns
+sizeof msg = 2048
+The time is: 290.00 ns
+sizeof msg = 4096
+The time is: 442.40 ns
+sizeof msg = 8192
+The time is: 423.60 ns
+sizeof msg = 16384
+The time is: 2746.00 ns
+sizeof msg = 32768
+The time is: 8441.20 ns
+sizeof msg = 65536
+The time is: 3607.60 ns
+sizeof msg = 131072
+The time is: 4128.80 ns
+sizeof msg = 262144
+The time is: 2758.40 ns
+sizeof msg = 524288
+The time is: 2926.00 ns
+sizeof msg = 1048576
+The time is: 3978.00 ns
+Processor peac02, rank 1 out of 1 processors
+sizeof msg = 4
+The time is: 302122.40 ns
+sizeof msg = 8
+The time is: 3292.00 ns
+sizeof msg = 16
+The time is: 1194.40 ns
+sizeof msg = 32
+The time is: 1064.00 ns
+sizeof msg = 64
+The time is: 1121.20 ns
+sizeof msg = 128
+The time is: 1026.80 ns
+sizeof msg = 256
+The time is: 1111.60 ns
+sizeof msg = 512
+The time is: 1032.80 ns
+sizeof msg = 1024
+The time is: 1002.80 ns
+sizeof msg = 2048
+The time is: 1035.20 ns
+sizeof msg = 4096
+The time is: 1246.80 ns
+sizeof msg = 8192
+The time is: 1049.20 ns
+sizeof msg = 16384
+The time is: 4140.00 ns
+sizeof msg = 32768
+The time is: 8085.20 ns
+sizeof msg = 65536
+The time is: 4710.00 ns
+sizeof msg = 131072
+The time is: 3778.80 ns
+sizeof msg = 262144
+The time is: 4079.20 ns
+sizeof msg = 524288
+The time is: 3915.20 ns
+sizeof msg = 1048576
+The time is: 5525.20 ns
+1 Knoten 2 Rank
+Processor peac01, rank 1 out of 1 processors
+sizeof msg = 4
+The time is: 22388.00 ns
+sizeof msg = 8
+The time is: 680.00 ns
+sizeof msg = 16
+The time is: 504.80 ns
+sizeof msg = 32
+The time is: 495.20 ns
+sizeof msg = 64
+The time is: 394.00 ns
+sizeof msg = 128
+The time is: 388.80 ns
+sizeof msg = 256
+The time is: 380.00 ns
+sizeof msg = 512
+The time is: 464.00 ns
+sizeof msg = 1024
+The time is: 42517.20 ns
+sizeof msg = 2048
+The time is: 532.40 ns
+sizeof msg = 4096
+The time is: 654.80 ns
+sizeof msg = 8192
+The time is: 3259.20 ns
+sizeof msg = 16384
+The time is: 4498.80 ns
+sizeof msg = 32768
+The time is: 5122.80 ns
+sizeof msg = 65536
+The time is: 8479.20 ns
+sizeof msg = 131072
+The time is: 14720.80 ns
+sizeof msg = 262144
+The time is: 5783.60 ns
+sizeof msg = 524288
+The time is: 7136.80 ns
+sizeof msg = 1048576
+The time is: 5404.40 ns
+Processor peac01, rank 0 out of 1 processors
+sizeof msg = 4
+The time is: 75419.20 ns
+sizeof msg = 8
+The time is: 4678.80 ns
+sizeof msg = 16
+The time is: 348.00 ns
+sizeof msg = 32
+The time is: 280.00 ns
+sizeof msg = 64
+The time is: 290.40 ns
+sizeof msg = 128
+The time is: 272.40 ns
+sizeof msg = 256
+The time is: 265.60 ns
+sizeof msg = 512
+The time is: 272.40 ns
+sizeof msg = 1024
+The time is: 5274.80 ns
+sizeof msg = 2048
+The time is: 488.80 ns
+sizeof msg = 4096
+The time is: 544.80 ns
+sizeof msg = 8192
+The time is: 2950.80 ns
+sizeof msg = 16384
+The time is: 5049.20 ns
+sizeof msg = 32768
+The time is: 4787.60 ns
+sizeof msg = 65536
+The time is: 7807.20 ns
+sizeof msg = 131072
+The time is: 5844.40 ns
+sizeof msg = 262144
+The time is: 7578.80 ns
+sizeof msg = 524288
+The time is: 9031.60 ns
+sizeof msg = 1048576
+The time is: 7068.40 ns

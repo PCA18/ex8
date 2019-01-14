@@ -1,0 +1,89 @@
+/var/spool/slurm/d/job07812/slurm_script: Zeile 15: module: Kommando nicht gefunden.
+2 Knoten 1 Rank
+Processor peac01, rank 0 out of 1 processors
+sizeof msg = 4
+The time is: 505407.60 ns
+sizeof msg = 8
+The time is: 119436.00 ns
+sizeof msg = 16
+The time is: 4800.00 ns
+sizeof msg = 32
+The time is: 410.00 ns
+sizeof msg = 64
+The time is: 246.00 ns
+sizeof msg = 128
+The time is: 244.40 ns
+sizeof msg = 256
+The time is: 237.20 ns
+sizeof msg = 512
+The time is: 244.80 ns
+sizeof msg = 1024
+The time is: 232.40 ns
+sizeof msg = 2048
+The time is: 238.80 ns
+sizeof msg = 4096
+The time is: 448.40 ns
+sizeof msg = 8192
+The time is: 408.80 ns
+sizeof msg = 16384
+The time is: 2761.60 ns
+sizeof msg = 32768
+The time is: 7862.00 ns
+sizeof msg = 65536
+The time is: 2525.60 ns
+sizeof msg = 131072
+The time is: 4253.20 ns
+sizeof msg = 262144
+The time is: 3154.40 ns
+sizeof msg = 524288
+The time is: 3010.80 ns
+sizeof msg = 1048576
+The time is: 7690.00 ns
+Processor peac02, rank 1 out of 1 processors
+sizeof msg = 4
+The time is: 310864.40 ns
+sizeof msg = 8
+The time is: 3339.20 ns
+sizeof msg = 16
+The time is: 1253.60 ns
+sizeof msg = 32
+The time is: 1085.60 ns
+sizeof msg = 64
+The time is: 1004.80 ns
+sizeof msg = 128
+The time is: 1095.20 ns
+sizeof msg = 256
+The time is: 1030.80 ns
+sizeof msg = 512
+The time is: 1064.00 ns
+sizeof msg = 1024
+The time is: 960.00 ns
+sizeof msg = 2048
+The time is: 972.40 ns
+sizeof msg = 4096
+The time is: 1192.80 ns
+sizeof msg = 8192
+The time is: 1070.00 ns
+sizeof msg = 16384
+The time is: 4029.60 ns
+sizeof msg = 32768
+The time is: 8220.00 ns
+sizeof msg = 65536
+The time is: 4892.80 ns
+sizeof msg = 131072
+The time is: 4018.00 ns
+sizeof msg = 262144
+The time is: 4000.00 ns
+sizeof msg = 524288
+The time is: 5776.00 ns
+sizeof msg = 1048576
+The time is: 3874.80 ns
+1 Knoten 2 Rank
+--------------------------------------------------------------------------
+There are not enough slots available in the system to satisfy the 2 slots 
+that were requested by the application:
+  ./lat.exe
+
+Either request fewer slots for your application, or make more slots available
+for use.
+--------------------------------------------------------------------------
